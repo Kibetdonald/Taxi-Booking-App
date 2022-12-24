@@ -101,6 +101,7 @@ export default function HomeScreen() {
 const styles = StyleSheet.create({
   container: {
     marginHorizontal: 20,
+    paddingTop: 20
   },
   search: {
     marginVertical: 20,
